@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Test</string>
+
+    <string-array name="Categories">
+        <item>Pick A Category</item>
+        <item>All Cell Phones with Plan</item>
+        <item>Desktop</item>
+        <item>Digital Camera</item>
+        <item>Health and Fitness</item>
+        <item>Headphones</item>
+        <item>Home Audio</item>
+        <item>Laptops</item>
+        <item>Playstation 4</item>
+        <item>TVs</item>
+        <item>Xbox</item>
+
+    </string-array>
+
+    <string name="example">Example </string>
+    <string name="price">Price</string>
+    <string name="sku">SKU</string>
+    <string name="name">Name</string>
+    <string name="enter_product_name">Enter Product Name</string>
+    <string name="go">GO</string>
+    <string name="nearby_stores">Nearby Stores</string>
+    <string name="enter_zip_code">Enter Zip Code</string>
+    <string name="location">Location</string>
+    <string name="search">Search</string>
+    <string name="maps">Maps</string>
+    <string name="listview">ListView</string>
+
+</resources>
